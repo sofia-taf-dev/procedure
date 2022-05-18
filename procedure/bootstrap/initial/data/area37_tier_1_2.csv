@@ -1,0 +1,125 @@
+stock,taxa,variable,year,mean,sd,lower,upper,status,U,F,O
+Bivalvia,Bivalvia,b_div_bmsy,2018,1.002894301,0.219630352,0.6944448,1.423647496,fully fished,0,1,0
+Callista.chione,Callista chione,b_div_bmsy,2018,0.963025446,0.180142118,0.715599183,1.26702413,fully fished,0,1,0
+Cardiidae,Cardiidae,b_div_bmsy,2018,0.971944455,0.234668641,0.673303001,1.422147321,fully fished,0,1,0
+Labridae,Labridae,b_div_bmsy,2018,0.697302536,0.258729985,0.462458316,1.048205603,overfished,0,0,1
+Aphia.minuta,Aphia minuta,b_div_bmsy,2018,0.790306086,0.280811166,0.511210297,1.256794325,overfished,0,0,1
+Eutrigla.gurnardus,Eutrigla gurnardus,b_div_bmsy,2018,0.727125794,0.252225857,0.491823799,1.085914318,overfished,0,0,1
+Dactylopterus.volitans,Dactylopterus volitans,b_div_bmsy,2018,0.983293653,0.238032948,0.655971717,1.411654478,fully fished,0,1,0
+Sparisoma.cretense,Sparisoma cretense,b_div_bmsy,2018,0.789622095,0.258649967,0.522326962,1.183304539,overfished,0,0,1
+Xyrichtys.novacula,Xyrichtys novacula,b_div_bmsy,2018,0.791899558,0.247944753,0.530883881,1.168043037,overfished,0,0,1
+Muraena.helena,Muraena helena,b_div_bmsy,2018,0.810613845,0.270056341,0.52407588,1.231270705,fully fished,0,1,0
+Saurida.undosquamis,Saurida undosquamis,b_div_bmsy,2016,0.632616605,0.218664239,0.436592182,0.900894167,overfished,0,0,1
+Perciformes,Perciformes,b_div_bmsy,2018,0.629732131,0.262625916,0.41729664,0.960092839,overfished,0,0,1
+Ammodytes.spp,Ammodytes spp,b_div_bmsy,2018,0.847779085,0.254482663,0.567343263,1.278614888,fully fished,0,1,0
+Triglidae,Triglidae,b_div_bmsy,2018,0.645556154,0.220393854,0.457284202,0.911676962,overfished,0,0,1
+Pagellus.spp,Pagellus spp,b_div_bmsy,2018,0.591184642,0.17321947,0.435717683,0.762037953,overfished,0,0,1
+Diplodus.annularis,Diplodus annularis,b_div_bmsy,2018,0.985564241,0.267127154,0.62342588,1.488049638,fully fished,0,1,0
+Trachinus.spp,Trachinus spp,b_div_bmsy,2018,0.681027022,0.260611317,0.451628839,1.035682484,overfished,0,0,1
+Boops.boops,Boops boops,b_div_bmsy,2018,0.772990454,0.18352606,0.577311686,1.030068347,overfished,0,0,1
+Trichiurus.lepturus,Trichiurus lepturus,b_div_bmsy,2018,1.048564047,0.244373737,0.703009219,1.527444438,fully fished,0,1,0
+Diplodus.sargus,Diplodus sargus,b_div_bmsy,2018,0.881782168,0.250669042,0.595638184,1.306770178,fully fished,0,1,0
+Mugil.soiuy,Mugil soiuy,b_div_bmsy,2018,0.670646293,0.267499027,0.432042486,1.02700275,overfished,0,0,1
+Diplodus.spp,Diplodus spp,b_div_bmsy,2018,0.584357424,0.24290637,0.398360924,0.867553664,overfished,0,0,1
+Uranoscopus.scaber,Uranoscopus scaber,b_div_bmsy,2018,0.82983871,0.220940003,0.566578741,1.153734374,fully fished,0,1,0
+Umbrina.cirrosa,Umbrina cirrosa,b_div_bmsy,2018,0.63750738,0.260576723,0.411128351,0.959771182,overfished,0,0,1
+Gobiidae,Gobiidae,b_div_bmsy,2018,0.683861915,0.247333786,0.454254485,1.00240612,overfished,0,0,1
+Lophius.spp,Lophius spp,b_div_bmsy,2018,0.893593654,0.240114221,0.613419233,1.298578232,fully fished,0,1,0
+Aspitrigla.cuculus,Aspitrigla cuculus,b_div_bmsy,2018,0.942614409,0.253155139,0.612813305,1.383023964,fully fished,0,1,0
+Epinephelus.spp,Epinephelus spp,b_div_bmsy,2018,0.659247091,0.205527259,0.479775637,0.916879235,overfished,0,0,1
+Oblada.melanura,Oblada melanura,b_div_bmsy,2018,0.917680335,0.233272191,0.628711507,1.331677653,fully fished,0,1,0
+Helicolenus.dactylopterus,Helicolenus dactylopterus,b_div_bmsy,2018,0.743915097,0.2590237,0.491342911,1.113210174,overfished,0,0,1
+Mugilidae,Mugilidae,b_div_bmsy,2018,0.709764804,0.211580833,0.503223636,0.989371475,overfished,0,0,1
+Pagrus.pagrus,Pagrus pagrus,b_div_bmsy,2018,0.885049525,0.232166464,0.607734415,1.287747702,fully fished,0,1,0
+Synodontidae,Synodontidae,b_div_bmsy,2018,0.85282212,0.241243475,0.575877773,1.260884697,fully fished,0,1,0
+Zeus.faber,Zeus faber,b_div_bmsy,2018,0.698963527,0.263005184,0.453595293,1.065967053,overfished,0,0,1
+Balistes.carolinensis,Balistes carolinensis,b_div_bmsy,2018,0.733912399,0.263940152,0.477194697,1.099972837,overfished,0,0,1
+Siganus.spp,Siganus spp,b_div_bmsy,2018,0.72840092,0.266704011,0.472290834,1.116126143,overfished,0,0,1
+Spicara.maena,Spicara maena,b_div_bmsy,2018,0.741107924,0.254020198,0.490899359,1.108802513,overfished,0,0,1
+Chelidonichthys.lucerna,Chelidonichthys lucerna,b_div_bmsy,2018,0.711720513,0.264149293,0.470423955,1.091783487,overfished,0,0,1
+Argyrosomus.regius,Argyrosomus regius,b_div_bmsy,2018,0.737651266,0.243142185,0.498837296,1.076744024,overfished,0,0,1
+Mullus.spp,Mullus spp,b_div_bmsy,2018,0.491347286,0.211935649,0.346974739,0.685441574,overfished,0,0,1
+Trachinidae,Trachinidae,b_div_bmsy,2018,0.751524933,0.187648708,0.558822694,1.01405083,overfished,0,0,1
+Sciaenidae,Sciaenidae,b_div_bmsy,2018,0.546359895,0.252613111,0.36958049,0.818207883,overfished,0,0,1
+Scorpaenidae,Scorpaenidae,b_div_bmsy,2018,0.922082233,0.234007756,0.637241117,1.342022629,fully fished,0,1,0
+Centrolophidae,Centrolophidae,b_div_bmsy,2018,0.98005399,0.259865604,0.634821391,1.448989667,fully fished,0,1,0
+Dentex.dentex,Dentex dentex,b_div_bmsy,2018,0.760459414,0.247354702,0.50944265,1.112279286,overfished,0,0,1
+Conger.conger,Conger conger,b_div_bmsy,2018,0.766058875,0.243290969,0.511216595,1.129792771,overfished,0,0,1
+Umbrina.canariensis,Umbrina canariensis,b_div_bmsy,2018,0.718725173,0.252915079,0.475580773,1.087033425,overfished,0,0,1
+Phycis.spp,Phycis spp,b_div_bmsy,2018,0.573948452,0.146924224,0.456407008,0.723077286,overfished,0,0,1
+Trisopterus.minutus,Trisopterus minutus,b_div_bmsy,2018,0.615291836,0.144025846,0.488923789,0.771913913,overfished,0,0,1
+Micromesistius.poutassou,Micromesistius poutassou,b_div_bmsy,2018,0.556253241,0.141797365,0.443857412,0.700012463,overfished,0,0,1
+Phycis.phycis,Phycis phycis,b_div_bmsy,2018,0.680656656,0.162727715,0.52643817,0.884633292,overfished,0,0,1
+Trisopterus.luscus,Trisopterus luscus,b_div_bmsy,2018,0.585070832,0.11107498,0.485326388,0.691847344,overfished,0,0,1
+Sphyraena.sphyraena,Sphyraena sphyraena,b_div_bmsy,2018,0.806663082,0.250125952,0.53606628,1.2002598,fully fished,0,1,0
+Scomberesox.saurus,Scomberesox saurus,b_div_bmsy,2018,0.643312984,0.267735736,0.41766483,0.986830122,overfished,0,0,1
+Trachinotus.ovatus,Trachinotus ovatus,b_div_bmsy,2018,0.709507621,0.267860302,0.45998244,1.098787084,overfished,0,0,1
+Trachurus.spp,Trachurus spp,b_div_bmsy,2018,0.65265252,0.227658944,0.457829565,0.931163161,overfished,0,0,1
+Scomber.colias,Scomber colias,b_div_bmsy,2018,0.75893802,0.234243546,0.517453021,1.09726698,overfished,0,0,1
+Coryphaena.hippurus,Coryphaena hippurus,b_div_bmsy,2018,0.783189788,0.253818856,0.520326154,1.163594927,overfished,0,0,1
+Caranx.spp,Caranx spp,b_div_bmsy,2018,0.691207314,0.253740081,0.459330316,1.017026626,overfished,0,0,1
+Atherina.boyeri,Atherina boyeri,b_div_bmsy,2018,0.647835209,0.25630793,0.423849756,0.974006847,overfished,0,0,1
+Scomber.spp,Scomber spp,b_div_bmsy,2018,0.369791194,0.225213697,0.252695189,0.525117645,overfished,0,0,1
+Seriola.dumerili,Seriola dumerili,b_div_bmsy,2018,0.714639071,0.260702245,0.468428825,1.080256645,overfished,0,0,1
+Belone.belone,Belone belone,b_div_bmsy,2018,0.616390966,0.256654823,0.412880062,0.939231135,overfished,0,0,1
+Pomatomus.saltatrix,Pomatomus saltatrix,b_div_bmsy,2018,0.67792398,0.249352362,0.454007159,1.00581317,overfished,0,0,1
+Naucrates.ductor,Naucrates ductor,b_div_bmsy,2018,0.693659033,0.270315435,0.443611218,1.068633137,overfished,0,0,1
+Citharus.linguatula,Citharus linguatula,b_div_bmsy,2018,0.594726115,0.146261734,0.47231339,0.749754657,overfished,0,0,1
+Scophthalmus.rhombus,Scophthalmus rhombus,b_div_bmsy,2018,0.617220988,0.149123347,0.485037106,0.776425882,overfished,0,0,1
+Pleuronectiformes,Pleuronectiformes,b_div_bmsy,2018,0.561645723,0.134733028,0.454239574,0.695215813,overfished,0,0,1
+Soleidae,Soleidae,b_div_bmsy,2018,0.60507748,0.153165995,0.474793361,0.783559609,overfished,0,0,1
+Scophthalmidae,Scophthalmidae,b_div_bmsy,2018,0.543688852,0.143769121,0.432137252,0.68250741,overfished,0,0,1
+Engraulis.encrasicolus,Engraulis encrasicolus,b_div_bmsy,2018,0.785341386,0.164329753,0.607416944,1.014901802,overfished,0,0,1
+Sprattus.sprattus,Sprattus sprattus,b_div_bmsy,2018,0.805614277,0.16672388,0.609539076,1.04604397,fully fished,0,1,0
+Sardinella.aurita,Sardinella aurita,b_div_bmsy,2018,0.802499172,0.164373649,0.614511878,1.044660647,fully fished,0,1,0
+Isurus.oxyrinchus,Isurus oxyrinchus,b_div_bmsy,2018,0.807610612,0.222796083,0.567488822,1.160304193,fully fished,0,1,0
+Acipenser.stellatus,Acipenser stellatus,b_div_bmsy,2006,0.642367626,0.2226552,0.447190079,0.915374608,overfished,0,0,1
+Anguilla.anguilla,Anguilla anguilla,b_div_bmsy,2018,0.608516079,0.200452817,0.438610399,0.835965954,overfished,0,0,1
+Etmopterus.spinax,Etmopterus spinax,b_div_bmsy,2018,0.804111769,0.220121274,0.560627984,1.141069214,fully fished,0,1,0
+Alopias.vulpinus,Alopias vulpinus,b_div_bmsy,2018,0.776989861,0.219152837,0.547045682,1.086186391,overfished,0,0,1
+Rutilus.spp,Rutilus spp,b_div_bmsy,2018,0.685500894,0.202550647,0.491210348,0.934409379,overfished,0,0,1
+Invertebrata,Invertebrata,b_div_bmsy,2018,0.787424295,0.221437384,0.552671304,1.118528074,overfished,0,0,1
+Carassius.auratus,Carassius auratus,b_div_bmsy,2017,0.8456766,0.222266834,0.589189703,1.202735632,fully fished,0,1,0
+Raja.clavata,Raja clavata,b_div_bmsy,2018,0.864471498,0.226479645,0.606942679,1.237535478,fully fished,0,1,0
+Auxis.thazard..A..rochei,Auxis thazard A rochei,b_div_bmsy,2018,0.932407961,0.204463269,0.66836215,1.273865595,fully fished,0,1,0
+Scyllarides.latus,Scyllarides latus,b_div_bmsy,2018,0.900088583,0.215008903,0.636474544,1.262152754,fully fished,0,1,0
+Thunnus.thynnus,Thunnus thynnus,b_div_bmsy,2018,0.795546264,0.192540447,0.588815877,1.08569848,overfished,0,0,1
+Brachyura,Brachyura,b_div_bmsy,2018,0.850669396,0.217985844,0.601029119,1.212099677,fully fished,0,1,0
+Elasmobranchii,Elasmobranchii,b_div_bmsy,2018,0.651598466,0.203613302,0.472556674,0.909884711,overfished,0,0,1
+Prionace.glauca,Prionace glauca,b_div_bmsy,2018,0.836787824,0.219908875,0.588522588,1.191490087,fully fished,0,1,0
+Mollusca,Mollusca,b_div_bmsy,2018,0.843054229,0.224406426,0.593523293,1.205594469,fully fished,0,1,0
+Euthynnus.alletteratus,Euthynnus alletteratus,b_div_bmsy,2018,0.92782585,0.21143918,0.662775608,1.306269746,fully fished,0,1,0
+Mustelus.spp,Mustelus spp,b_div_bmsy,2018,0.731865689,0.204352102,0.526862466,1.00850596,overfished,0,0,1
+Rapana.venosa,Rapana venosa,b_div_bmsy,2018,0.785022261,0.220482526,0.539009059,1.104421833,overfished,0,0,1
+Palinurus.elephas,Palinurus elephas,b_div_bmsy,2018,0.613729027,0.229798922,0.433504412,0.902588049,overfished,0,0,1
+Spongiidae,Spongiidae,b_div_bmsy,2018,0.748600452,0.223098754,0.526118051,1.07082642,overfished,0,0,1
+Acipenser.gueldenstaedtii,Acipenser gueldenstaedtii,b_div_bmsy,2009,0.61976239,0.229172732,0.429919232,0.892079928,overfished,0,0,1
+Mytilus.galloprovincialis,Mytilus galloprovincialis,b_div_bmsy,2018,0.666986929,0.202795852,0.482770636,0.937867094,overfished,0,0,1
+Squilla.mantis,Squilla mantis,b_div_bmsy,2018,0.973602878,0.188225705,0.717967119,1.298301524,fully fished,0,1,0
+Xiphias.gladius,Xiphias gladius,b_div_bmsy,2018,1.074824247,0.186169583,0.796176418,1.447278183,fully fished,0,1,0
+Dasyatidae,Dasyatidae,b_div_bmsy,2018,0.860290539,0.221881333,0.601435575,1.234741026,fully fished,0,1,0
+Geryon.longipes,Geryon longipes,b_div_bmsy,2018,0.911735433,0.217143256,0.64338203,1.28885813,fully fished,0,1,0
+Scyliorhinus.spp,Scyliorhinus spp,b_div_bmsy,2018,0.787877161,0.220685148,0.557467338,1.118574834,overfished,0,0,1
+Crassostrea.gigas,Crassostrea gigas,b_div_bmsy,2000,0.624016566,0.218032272,0.440996103,0.883650958,overfished,0,0,1
+Osteichthyes,Osteichthyes,b_div_bmsy,2018,0.499938266,0.12610392,0.410130646,0.613791772,overfished,0,0,1
+Thunnus.alalunga,Thunnus alalunga,b_div_bmsy,2018,0.928058686,0.210591079,0.658485391,1.290566002,fully fished,0,1,0
+Rhinobatidae,Rhinobatidae,b_div_bmsy,2018,0.840800313,0.217652038,0.589197239,1.188226184,fully fished,0,1,0
+Scombroidei,Scombroidei,b_div_bmsy,2018,0.707793963,0.21629575,0.498683446,1.010769148,overfished,0,0,1
+Galeorhinus.galeus,Galeorhinus galeus,b_div_bmsy,2018,0.886033896,0.217508413,0.627636993,1.259935821,fully fished,0,1,0
+Scyliorhinus.canicula,Scyliorhinus canicula,b_div_bmsy,2018,0.814213027,0.23169119,0.559711027,1.172259225,fully fished,0,1,0
+Crustacea.1,Crustacea,b_div_bmsy,2018,0.777164876,0.219035759,0.547737135,1.101183802,overfished,0,0,1
+Hexanchus.griseus,Hexanchus griseus,b_div_bmsy,2018,0.870188921,0.22000136,0.610131837,1.247784208,fully fished,0,1,0
+Myliobatidae,Myliobatidae,b_div_bmsy,2018,0.76260889,0.215722602,0.540806816,1.078583122,overfished,0,0,1
+Abramis.brama,Abramis brama,b_div_bmsy,2018,0.659435542,0.225777881,0.463174809,0.955572297,overfished,0,0,1
+Sarda.sarda,Sarda sarda,b_div_bmsy,2018,0.73798521,0.215297461,0.518321311,1.027948626,overfished,0,0,1
+Squalidae,Squalidae,b_div_bmsy,2018,0.820654586,0.200798374,0.612622172,1.152456261,fully fished,0,1,0
+Rajiformes,Rajiformes,b_div_bmsy,2018,0.694282945,0.191381846,0.514052316,0.936715276,overfished,0,0,1
+Ex.Mollusca,Ex Mollusca,b_div_bmsy,2018,0.706546326,0.222784681,0.49665999,1.002398701,overfished,0,0,1
+Galeus.melastomus,Galeus melastomus,b_div_bmsy,2018,0.859646883,0.222279469,0.606658799,1.230660358,fully fished,0,1,0
+Scomberomorus.commerson,Scomberomorus commerson,b_div_bmsy,2018,0.850375726,0.208872514,0.605788955,1.18723467,fully fished,0,1,0
+Nephrops.norvegicus,Nephrops norvegicus,b_div_bmsy,2018,0.806509251,0.171228455,0.61638307,1.053201756,fully fished,0,1,0
+Alosa.spp,Alosa spp,b_div_bmsy,2018,0.766288357,0.226654612,0.529277583,1.098605397,overfished,0,0,1
+Eledone.spp,Eledone spp,b_div_bmsy,2018,0.824113469,0.223479891,0.579801997,1.184711639,fully fished,0,1,0
+Sepiidae..Sepiolidae,Sepiidae Sepiolidae,b_div_bmsy,2018,0.651955974,0.164126591,0.506548382,0.849244181,overfished,0,0,1
+Octopodidae,Octopodidae,b_div_bmsy,2018,0.905891933,0.224853803,0.630135583,1.274679397,fully fished,0,1,0
+Illex.coindetii,Illex coindetii,b_div_bmsy,2018,0.786133564,0.202155973,0.568781518,1.07568068,overfished,0,0,1
